@@ -12,8 +12,8 @@ Pending
 
 ## Screenshots
 <p>
-  <img src="Screenshots/WWDC-1.png" height="400">
-  <img src="Screenshots/WWDC-2.png" height="400">
-  <img src="Screenshots/WWDC-3.png" height="400">
-  <img src="Screenshots/WWDC-4.png" height="400">
+  <img src="Screenshots/WWDC-1.PNG" height="400">
+  <img src="Screenshots/WWDC-2.PNG" height="400">
+  <img src="Screenshots/WWDC-3.PNG" height="400">
+  <img src="Screenshots/WWDC-4.PNG" height="400">
 </p>
