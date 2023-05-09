@@ -2,7 +2,7 @@
 My submission for the WWDC23 Swift Student Challenge!
 
 ## Status
-Pending
+[Accepted!](https://twitter.com/vedantapps/status/1655998365719728128?s=61&t=9n1NZzpu01n2yD6tZb77Yg) 
 
 ## The Project
 - Help save WWDC once more by sending over the WWDC Keynote to the Apple team.
